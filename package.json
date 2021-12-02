@@ -1,0 +1,11 @@
+{
+  "name": "adventofcode",
+  "version": "2021.0.0",
+  "description": "My attempt at advent of code 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FieryFlames",
+  "license": "MIT"
+}
